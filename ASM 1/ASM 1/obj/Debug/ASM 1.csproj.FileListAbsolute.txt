@@ -1,0 +1,7 @@
+D:\Giarng Programming\Asm program\ASM 1\ASM 1\bin\Debug\ASM 1.exe.config
+D:\Giarng Programming\Asm program\ASM 1\ASM 1\bin\Debug\ASM 1.exe
+D:\Giarng Programming\Asm program\ASM 1\ASM 1\bin\Debug\ASM 1.pdb
+D:\Giarng Programming\Asm program\ASM 1\ASM 1\obj\Debug\ASM 1.csproj.AssemblyReference.cache
+D:\Giarng Programming\Asm program\ASM 1\ASM 1\obj\Debug\ASM 1.csproj.CoreCompileInputs.cache
+D:\Giarng Programming\Asm program\ASM 1\ASM 1\obj\Debug\ASM 1.exe
+D:\Giarng Programming\Asm program\ASM 1\ASM 1\obj\Debug\ASM 1.pdb
